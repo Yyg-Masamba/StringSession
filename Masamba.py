@@ -2,8 +2,8 @@ import os
 import pyrogram
 from pyrogram import Client
 
-api_id = 19181985
-api_hash = "a2b23ca3a1c9b5dab4bf42dda7de4e79"
+api_id = 7322837
+api_hash = "2047a64426f81acbb180c0a749b5d565"
 
 try:
    os.remove("masamba.session")
