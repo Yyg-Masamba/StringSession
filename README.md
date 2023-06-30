@@ -4,7 +4,7 @@
 
 - ```pkg update -y```
 - ```pkg install git python -y```
-- ```git clone https://github.com/GdriveCMT/String-Session string```
+- ```git clone https://github.com/Yyg-Masamba/StringSession string```
 - ```cd string```
 - ```pip install -r Installer```
-- ```python PeaMasamba.py```
+- ```python masamba.py```
